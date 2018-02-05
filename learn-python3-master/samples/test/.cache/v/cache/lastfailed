@@ -1,0 +1,15 @@
+{
+  "MoreBrowerTest.py": true,
+  "MoreBrowerTest.py::testBaidu_search": true,
+  "PyTest.py::test_function": true,
+  "PyTest.py::test_recursion_depth": true,
+  "PyTest.py::test_reverse": true,
+  "PyTest.py::test_zero_division": true,
+  "UIAutomator.py": true,
+  "UIAutomator.py::MyTest_Suit": true,
+  "selenium+webdriver.py::BaiduTest::test_baidu_search": true,
+  "selenium+webdriver.py::yunweiTest::test_Login": true,
+  "selenium+webdriver.py::yunweiTest::test_login_pwderror": true,
+  "selenium+webdriver.py::yunweiTest::test_login_success": true,
+  "testStudent.py::testStudent::test_invalid": true
+}

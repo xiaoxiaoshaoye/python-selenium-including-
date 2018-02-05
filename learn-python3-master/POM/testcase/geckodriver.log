@@ -1,0 +1,55 @@
+1517548470802	geckodriver	INFO	geckodriver 0.19.1
+1517548470872	geckodriver	INFO	Listening on 127.0.0.1:41403
+1517548473024	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dujuan\\AppData\\Local\\Temp\\rust_mozprofile.NXG3fGcx8IJY"
+1517548474300	Marionette	INFO	Enabled via --marionette
+1517548476096	Marionette	INFO	Listening on port 41412
+1517548476214	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dujuan\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1517548544141	geckodriver	INFO	geckodriver 0.19.1
+1517548544152	geckodriver	INFO	Listening on 127.0.0.1:41446
+1517548546226	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dujuan\\AppData\\Local\\Temp\\rust_mozprofile.2yg2hcjxK0On"
+1517548547647	Marionette	INFO	Enabled via --marionette
+1517548550519	Marionette	INFO	Listening on port 41452
+1517548551569	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dujuan\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1422_21109_18560_17001_20930&req=2&csor=6&pwd=pytho&cb=jQuery1102033833570180629136_1517548552151&_=1517548552158, line 1: TypeError: jQuery1102033833570180629136_1517548552151 is not a function
+1517549398283	geckodriver	INFO	geckodriver 0.19.1
+1517549398292	geckodriver	INFO	Listening on 127.0.0.1:41620
+1517549400362	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dujuan\\AppData\\Local\\Temp\\rust_mozprofile.Hj8tZaWGSXmK"
+1517549401498	Marionette	INFO	Enabled via --marionette
+1517549403571	Marionette	INFO	Listening on port 41626
+1517549403989	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dujuan\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1430_21108_22158&req=2&csor=6&pwd=pytho&cb=jQuery110209374709183217045_1517549404697&_=1517549404704, line 1: TypeError: jQuery110209374709183217045_1517549404697 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=1430_21108_22158&req=2&csor=2&pwd=p&cb=jQuery110209374709183217045_1517549404697&_=1517549404700, line 1: TypeError: jQuery110209374709183217045_1517549404697 is not a function
+1517549767958	geckodriver	INFO	geckodriver 0.19.1
+1517549767967	geckodriver	INFO	Listening on 127.0.0.1:41714
+1517549770316	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dujuan\\AppData\\Local\\Temp\\rust_mozprofile.Bh6F1VMYwm9x"
+1517549771760	Marionette	INFO	Enabled via --marionette
+1517549773999	Marionette	INFO	Listening on port 41729
+1517549774470	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dujuan\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1517549812760	geckodriver	INFO	geckodriver 0.19.1
+1517549812768	geckodriver	INFO	Listening on 127.0.0.1:41786
+1517549814887	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dujuan\\AppData\\Local\\Temp\\rust_mozprofile.MCLMHR62ejVj"
+1517549816236	Marionette	INFO	Enabled via --marionette
+1517549818232	Marionette	INFO	Listening on port 41792
+1517549818535	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dujuan\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dujuan\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1517549874111	geckodriver	INFO	geckodriver 0.19.1
+1517549874123	geckodriver	INFO	Listening on 127.0.0.1:41855
+1517549876197	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dujuan\\AppData\\Local\\Temp\\rust_mozprofile.vWMEvyFedCBX"
+1517549877164	Marionette	INFO	Enabled via --marionette
+1517549878966	Marionette	INFO	Listening on port 41861
+1517549879343	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\dujuan\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\dujuan\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
